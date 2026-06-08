@@ -16,4 +16,4 @@ A simple calculator built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Author
-Your Name
+Millinda J
