@@ -11,9 +11,7 @@ A simple calculator built using HTML, CSS, and JavaScript.
 - Backspace button
 
 ## Technologies Used
-- HTML5
+- HTML
 - CSS3
 - JavaScript
 
-## Author
-Millinda J
